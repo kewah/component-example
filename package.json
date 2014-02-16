@@ -1,0 +1,9 @@
+{
+  "name": "component-example",
+  "dependencies": {
+    "component-scss": "kewah/component-scss"
+  },
+  "devDependencies": {
+    "express": "~3.4.8"
+  }
+}

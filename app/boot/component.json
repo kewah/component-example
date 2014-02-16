@@ -1,0 +1,22 @@
+{
+  "name": "boot",
+  "dependencies": {
+    "visionmedia/page.js": "*",
+    "necolas/normalize.css": "*",
+    "timoxley/next-tick": "*"
+  },
+  "paths": [
+    "../pages",
+    "../lib"
+  ],
+  "local": [
+    "home",
+    "about"
+  ],
+  "scripts": [
+    "index.js"
+  ],
+  "styles": [
+    "_index.scss"
+  ]
+}

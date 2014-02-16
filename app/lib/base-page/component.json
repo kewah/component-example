@@ -1,0 +1,17 @@
+{
+  "name": "base-page",
+  "dependencies": {
+    "component/domify": "*",
+    "component/emitter": "*",
+    "pgherveou/transitionend": "*"
+  },
+  "paths": [
+    "../"
+  ],
+  "scripts": [
+    "index.js"
+  ],
+  "styles": [
+    "_base.scss"
+  ]
+}

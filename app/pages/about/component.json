@@ -1,0 +1,21 @@
+{
+  "name": "about",
+  "dependencies": {
+    "kewah/inherits": "*"
+  },
+  "paths": [
+    "../../lib"
+  ],
+  "local": [
+    "base-page"
+  ],
+  "scripts": [
+    "index.js"
+  ],
+  "styles": [
+    "_index.scss"
+  ],
+  "templates": [
+    "template.html"
+  ]
+}

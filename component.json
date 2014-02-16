@@ -1,0 +1,9 @@
+{
+  "name": "component-example",
+  "paths": [
+    "app"
+  ],
+  "local": [
+    "boot"
+  ]
+}
